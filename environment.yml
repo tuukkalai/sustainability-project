@@ -1,0 +1,12 @@
+name: sus
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - ipykernel
+  - jupyter
+  - python=3.11
+  - seaborn
+  - conda-forge::xmltodict
+  - conda-forge::catboost
