@@ -25,7 +25,3 @@ Run the notebook on browser
 ```sh
 jupyter notebook consumption.ipynb
 ```
-
-## References
-
-[1] Lahtinen, Panu. 2023. Accessed https://github.com/pnuu/fmiopendata in March 5th 2024.

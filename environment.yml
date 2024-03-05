@@ -10,3 +10,5 @@ dependencies:
   - seaborn
   - conda-forge::xmltodict
   - conda-forge::catboost
+  - pip:
+    - fmiopendata==0.4.3
