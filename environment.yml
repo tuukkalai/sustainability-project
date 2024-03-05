@@ -10,5 +10,8 @@ dependencies:
   - seaborn
   - conda-forge::xmltodict
   - conda-forge::catboost
+  - tslearn
   - pip:
     - fmiopendata==0.4.3
+    - lets-plot==4.2.0
+    - skimpy==0.0.14
