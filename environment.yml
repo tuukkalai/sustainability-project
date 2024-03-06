@@ -3,10 +3,11 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - pandas
-  - ipykernel
-  - jupyter
   - python=3.11
+  - pip
+  - jupyter
+  - ipykernel
+  - pandas
   - seaborn
   - conda-forge::xmltodict
   - conda-forge::catboost
